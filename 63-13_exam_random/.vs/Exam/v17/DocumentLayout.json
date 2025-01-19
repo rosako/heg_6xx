@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urk3l\\source\\repos\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|c:\\users\\urk3l\\source\\repos\\exam\\questionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:questionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|C:\\Users\\urk3l\\source\\repos\\Exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|C:\\Users\\urk3l\\source\\repos\\Exam\\detailedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:detailedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|C:\\Users\\urk3l\\source\\repos\\Exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|C:\\Users\\urk3l\\source\\repos\\Exam\\questionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:questionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|C:\\Users\\urk3l\\source\\repos\\Exam\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|C:\\Users\\urk3l\\source\\repos\\Exam\\detailedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:detailedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|C:\\Users\\urk3l\\source\\repos\\Exam\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9611ED-A208-45B3-B485-7FA9974A1940}|Exam.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 136,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAkwJEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:13:54.748Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionListForm.cs",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\QuestionListForm.cs",
+              "RelativeDocumentMoniker": "QuestionListForm.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\QuestionListForm.cs",
+              "RelativeToolTip": "QuestionListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:04:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:26:36.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\QuestionListForm.cs",
+              "RelativeDocumentMoniker": "QuestionListForm.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\QuestionListForm.cs [Design]",
+              "RelativeToolTip": "QuestionListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:00:40.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailedQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\DetailedQuestion.cs",
+              "RelativeDocumentMoniker": "DetailedQuestion.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\DetailedQuestion.cs",
+              "RelativeToolTip": "DetailedQuestion.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:51:41.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\Tools.cs",
+              "RelativeToolTip": "Tools.cs",
+              "ViewState": "AgIAAAUAAACANzMzM7MSwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:54:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailedQuestion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\DetailedQuestion.cs",
+              "RelativeDocumentMoniker": "DetailedQuestion.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\DetailedQuestion.cs [Design]",
+              "RelativeToolTip": "DetailedQuestion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:50:43.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\urk3l\\source\\repos\\Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\urk3l\\source\\repos\\Exam\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:30:28.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

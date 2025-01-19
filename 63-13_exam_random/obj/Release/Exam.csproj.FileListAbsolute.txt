@@ -1,0 +1,11 @@
+C:\Users\urk3l\source\repos\Exam\bin\Release\Exam.exe.config
+C:\Users\urk3l\source\repos\Exam\bin\Release\Exam.exe
+C:\Users\urk3l\source\repos\Exam\bin\Release\Exam.pdb
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.csproj.AssemblyReference.cache
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.DetailedQuestion.resources
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.Form1.resources
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.Properties.Resources.resources
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.csproj.GenerateResource.cache
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.csproj.CoreCompileInputs.cache
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.exe
+C:\Users\urk3l\source\repos\Exam\obj\Release\Exam.pdb
