@@ -24,6 +24,7 @@ namespace Exam
         public Form1()
         {
             InitializeComponent();
+            this.KeyPreview = true;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -99,8 +100,28 @@ namespace Exam
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            currentQuestions = Question.loadCSV("exa_63_13_data.csv");
-            File.WriteAllText("saved_63-13.csv", "");
+            string savedStatePath = "saved_state.csv";
+            string allQuestionsPath = "exa_63_13_data.csv";
+
+            if (File.Exists(savedStatePath))
+            {
+                DialogResult result = MessageBox.Show("Une session entamée a été détectée, voulez-vous la récupérer?", "Récupération", MessageBoxButtons.YesNo);
+                if (result == DialogResult.Yes)
+                {
+                    currentQuestions = Question.loadCSV(savedStatePath);
+                }
+                else if (result == DialogResult.No)
+                {
+                    currentQuestions = Question.loadCSV(allQuestionsPath);
+                }
+            }
+            else
+            {
+                currentQuestions = Question.loadCSV(allQuestionsPath);
+            }
+
+            //currentQuestions = Question.loadCSV("exa_63_13_data.csv");
+            //File.WriteAllText("saved_63-13.csv", "");
 
             resetChoix();
         }
@@ -170,36 +191,14 @@ namespace Exam
 
         }
 
-        /*
-         using System;
-    using System.IO;
-
-    class Program
-    {
-        static void Main()
-        {
-        string path = "example.txt";
-        string content = "Hello, this is a line of text!";
-
-        // Write text to the file
-        File.WriteAllText(path, content);
-
-        Console.WriteLine("File written successfully!");
-    }
-} 
-         */
-
-
         private void saveCurrentQuestions()
         {
-            foreach (var question in currentQuestions)
+            using (StreamWriter writer = new StreamWriter("saved_state.csv", append: false))
             {
-                File.WriteAllText("saved_63-13.csv", $"{question.Value.toCSV()}\n");
-                //File.AppendAllText("saved_63-13.csv", "\n");
-                //File.AppendText("saved_63-12.csv", question.Value.toCSV());
-                //File.WriteAllText("saved_63-12.csv", question.Value.toCSV());
-
-                //Console.WriteLine(question.Value.number);
+                foreach (var q in currentQuestions.Values)
+                {
+                    writer.WriteLine(q.toCSV());
+                }
             }
         }
 
@@ -250,6 +249,14 @@ namespace Exam
         private void button1_Click(object sender, EventArgs e)
         {
             showQuestionListView();
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Control && e.KeyCode == Keys.L)
+            {
+                showQuestionListView();
+            }
         }
 
         private void showQuestionListView()

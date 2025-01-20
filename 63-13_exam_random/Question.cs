@@ -87,12 +87,13 @@ namespace Exam
 
         public string toListItem()
         {
-            return $"{this.number} : {this.title} / {this.description}";
+            string hasImg = this.imgPath != "default.png" ? "(Schéma)" : "";
+            return $"{this.number} : {this.title} / {this.description} {hasImg}";
         }
 
         public string toCSV()
         {
-            return $"{this.number},{this.title},{this.description},{this.imgPath}";
+            return $"{this.number};{this.title};{this.description};{this.imgPath}";
         }
     }
 }

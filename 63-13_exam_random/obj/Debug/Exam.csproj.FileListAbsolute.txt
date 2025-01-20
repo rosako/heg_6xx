@@ -5,8 +5,8 @@ C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
 C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.DetailedQuestion.resources
 C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.Form1.resources
 C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.QuestionListForm.resources
 C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
 C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
 C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.exe
 C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.pdb
-C:\Users\urk3l\source\repos\Exam\obj\Debug\Exam.QuestionListForm.resources

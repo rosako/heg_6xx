@@ -15,6 +15,7 @@ namespace Exam
         public QuestionListForm()
         {
             InitializeComponent();
+            this.KeyPreview = true;
         }
 
         public void udpateList(Dictionary<string, Question> questions)

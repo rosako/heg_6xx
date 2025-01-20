@@ -21,6 +21,7 @@ namespace Exam
             this.StartPosition = FormStartPosition.CenterScreen;
             tbDetails.Text = question.description;
             //globalQuestion = question;
+            this.KeyPreview = true;
 
             this.KeyDown += closeWindow;
 
