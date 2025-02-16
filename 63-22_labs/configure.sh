@@ -4,8 +4,7 @@
 sudo apt update && sudo apt upgrade -y
 
 # Install packages
-sudo apt install -y firefox net-tools wireshark openssh-server python3 zsh git tmux vim \
-                   john sqlite3 nmap curl wget dsniff arduino
+sudo apt install -y firefox net-tools wireshark openssh-server python3 zsh git tmux vim john sqlite3 nmap curl wget dsniff arduino python3-pip
 
 # Enable SSH
 sudo systemctl enable --now ssh
@@ -22,7 +21,6 @@ if [ ! -f "/usr/share/wordlists/rockyou.txt" ]; then
     sudo mkdir -p /usr/share/wordlists
     sudo wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt -O /usr/share/wordlists/rockyou.txt
 fi
-
 
 sudo apt install -y wireshark
 
